@@ -10,9 +10,15 @@ namespace GitGrupaTest
     {
         static void Main(string[] args)
         {
+
             // Ta zmiana jest przed Mateusza zmianą, więc powinień zgłosić konflikt i chcieć Merge'ować. Chyba...
             Console.WriteLine("Łukasz,...");
-            //Coś mi Twojego komita w gicie nie wyswietla Mateusz :/ Widzę na stronie, ale nie w konsoli. Komituje żeby sprawdzić czy Merge'a będzie chciał robić.
-        }
+            
+      
+
+            //Console.WriteLine("Łukasz,...");
+			Console.WriteLine("Male problemos ale juz chyba dobrze");
+		}
+
     }
 }
