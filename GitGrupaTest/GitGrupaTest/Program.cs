@@ -10,7 +10,8 @@ namespace GitGrupaTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Łukasz,...");
-        }
+            //Console.WriteLine("Łukasz,...");
+			Console.WriteLine("Male problemos ale juz chyba dobrze");
+		}
     }
 }
