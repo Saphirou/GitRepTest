@@ -1,1 +1,2 @@
 c:\users\łukasz\documents\visual studio 2013\Projects\GitGrupaTest\GitGrupaTest\bin\Debug\GitGrupaTest.exe.config
+C:\gita\GitGrupaTest\GitGrupaTest\bin\Debug\GitGrupaTest.exe.config
